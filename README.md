@@ -1,4 +1,6 @@
-Código de las prácticas de la asignatura de robótica, sacado de:
+Código de las prácticas de la asignatura de robótica.
+Los autores son José Raúl Ruiz Sarmiento y Antonio Javier González Jiménez
+Link a su repositorio:
 
 ![UMA ROBOTICS 2025](https://github.com/jotaraul/uma_robotics_2025/blob/main/utils/logo_uma_robotics_2025.png "UMA ROBOTICS 2025 logo")
 
